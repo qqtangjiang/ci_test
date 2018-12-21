@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 4 root root 4096 Dec 21 09:41 ./
+drwxr-xr-x 4 root root 4096 Dec 21 09:30 ../
+-rw-r--r-- 1 root root    0 Dec 21 09:41 a.txt
+-rw-r--r-- 1 root root 1064 Dec 21 09:30 .classpath
+-rw-r--r-- 1 root root    9 Dec 21 09:30 .gitignore
+-rw-r--r-- 1 root root  777 Dec 21 09:30 pom.xml
+-rw-r--r-- 1 root root  559 Dec 21 09:30 .project
+drwxr-xr-x 2 root root 4096 Dec 21 09:30 .settings/
+drwxr-xr-x 4 root root 4096 Dec 21 09:30 src/
